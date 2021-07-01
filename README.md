@@ -5,7 +5,7 @@
 
 ## Using this API
 ```bash
-curl -L https://yonle.github.io/discorduser-globalban/list | grep [userid]
+curl -Ls https://yonle.github.io/discorduser-globalban/list | grep [userid]
 ```
 ## Contributing
 To adding a new ID of Global-banned user, You must provide a information in this format:
